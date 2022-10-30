@@ -1,37 +1,44 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:UM101",
+      "query": "path:UM101/Definitions",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 8518653
       }
     },
     {
-      "query": "path:UE101",
+      "query": "path:UE101/Definitions",
       "color": {
         "a": 1,
-        "rgb": 5420768
+        "rgb": 8518653
+      }
+    },
+    {
+      "query": "path:sem1-fall",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": false,
+  "collapse-display": true,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.42708333333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.645833333333333,
-  "repelStrength": 20,
+  "centerStrength": 0.479166666666667,
+  "repelStrength": 10.6666666666667,
   "linkStrength": 1,
-  "linkDistance": 165,
-  "scale": 1.0110802410466468,
+  "linkDistance": 30,
+  "scale": 0.9665463621818368,
   "close": false
 }

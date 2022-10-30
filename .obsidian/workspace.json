@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ecc576dd15ea5e0",
+        "id": "c446dc4b1ef2c2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d3a10aab0c91a1b",
+            "id": "3bbef72715d13e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-18.md",
+                "file": "sem1-fall/UM101/UM101 2022.10.28.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-18.md",
+                "file": "sem1-fall/UM101/UM101 2022.10.28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-18.md",
+                "file": "sem1-fall/UM101/UM101 2022.10.28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-18.md"
+                "file": "sem1-fall/UM101/UM101 2022.10.28.md"
               }
             }
           }
@@ -136,20 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4d3a10aab0c91a1b",
+  "active": "3bbef72715d13e51",
   "lastOpenFiles": [
-    "2022-10-19.md",
-    "2022-10-18.md",
-    "sem1-fall/UE101/UE101 2022.10.17.md",
-    "sem1-fall/UE101/Definitions/Travelling Salesman Problem.md",
-    "sem1-fall/UE101/Definitions/Graph.md",
-    "sem1-fall/UE101/Definitions/Hamiltonian Cycle.md",
-    "sem1-fall/UM101/Definitions/Def1.1 Peano Set.md",
-    "sem1-fall/UM101/UM101 2022.10.17.md",
-    "sem1-fall/UE101/Travelling Salesman Problem.md",
-    "sem1-fall/UM101/Definitions/Injective Function.md"
+    "sem1-fall/UM101/UM101 2022.10.26.md",
+    "sem1-fall/UM101/UM101 2022.10.28.md",
+    "sem1-fall/UM101/Definitions/Def1.3 Relation.md",
+    "sem1-fall/UM101/Proofs.md",
+    "sem1-fall/UM101/UM101 2022.10.21.md",
+    "sem1-fall/UM101/UM101 2022.10.19.md",
+    "sem1-fall/UC101/UC101 2022.10.25.md",
+    "sem1-fall/UC101/UC101 2022.10.20.md",
+    "sem1-fall/UC101/UC101 2022.10.27.md",
+    "2022-10-19.md"
   ]
 }
